@@ -32,11 +32,11 @@ Replayable is a visual backup of everything you do on your computer.
 - Automatically creates gifs from your recordings.
 - Ready-to-paste markdown embeds.
 
-## Teams
+## Teams (Pro)
 
-- [Pro] Private clips.
-- [Pro] Invite your team to view your replays.
-- [Pro] Organize replays in projects and share clips in projects.
+- Private clips.
+- Invite your team to view your replays.
+- Organize replays in projects and share clips in projects.
 
 ## Integrations
 
